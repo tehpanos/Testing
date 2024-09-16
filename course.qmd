@@ -1,6 +1,6 @@
----
+     ---
 title: "First assignment"
-name: "Please fill"
+name: "Panagiotis Valsamis"
 format: html
 editor: source
 ---
