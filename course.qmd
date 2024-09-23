@@ -4,3 +4,17 @@ name: "Panagiotis Valsamis"
 format: html
 editor: source
 ---
+###The height of trees
+```{r}
+library(tidyverse)
+count(trees,Height)
+```
+```{r}
+install.packages("renv")
+install.packages("yaml")
+```
+```{r}
+renv::activate()
+```
+
+
